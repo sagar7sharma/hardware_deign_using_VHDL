@@ -1,0 +1,10 @@
+Simulation results for each part (behavior and timing).
+a. Multiplier output for some sample input.
+A. After post-route: delay=25.08 ns
+b. Divider output for some sample input.
+A. After post-route: delay=18.1 ns
+
+Frequency analysis: What is the maximum frequency of
+operation?.
+A. 1/10ns = 10 GHz
+
